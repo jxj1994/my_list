@@ -10,3 +10,5 @@ imgfu.com
 sb-cd.com
 xsspic.com
 gifyu.com
+github.com
+google.com
