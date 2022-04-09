@@ -12,3 +12,5 @@ xsspic.com
 gifyu.com
 github.com
 google.com
+googleapis.com
+ytimg.com
